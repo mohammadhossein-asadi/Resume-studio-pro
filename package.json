@@ -1,0 +1,34 @@
+{
+  "name": "resume-studio-pro",
+  "version": "1.0.0",
+  "private": true,
+  "description": "World's most advanced bilingual AI-ready Resume Builder",
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^5.4.0",
+    "@tailwindcss/postcss": "^4.3.3",
+    "clsx": "^2.1.1",
+    "lucide-react": "^1.26.0",
+    "motion": "^12.42.2",
+    "next": "^16.2.11",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "react-hook-form": "^7.82.0",
+    "tailwind-merge": "^3.6.0",
+    "tailwindcss": "^4.3.3",
+    "zod": "^4.4.3",
+    "zustand": "^5.0.14"
+  },
+  "devDependencies": {
+    "@types/node": "^26.1.1",
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "postcss": "^8.5.22",
+    "typescript": "7.0.2"
+  }
+}

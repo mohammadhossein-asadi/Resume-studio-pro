@@ -1,0 +1,97 @@
+{
+  "app": {
+    "name": "Resume Studio Pro",
+    "tagline": "Build your professional resume"
+  },
+  "nav": {
+    "home": "Home",
+    "editor": "Editor",
+    "templates": "Templates",
+    "settings": "Settings"
+  },
+  "editor": {
+    "personalInfo": "Personal Information",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "title": "Professional Title",
+    "email": "Email",
+    "phone": "Phone",
+    "location": "Location",
+    "website": "Website",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "summary": "Professional Summary",
+    "summaryPlaceholder": "Write a compelling professional summary...",
+    "addSection": "Add Section",
+    "removeSection": "Remove Section",
+    "sectionTitle": "Section Title",
+    "addItem": "Add Item",
+    "removeItem": "Remove Item",
+    "itemTitle": "Title",
+    "itemSubtitle": "Subtitle",
+    "itemLocation": "Location",
+    "startDate": "Start Date",
+    "endDate": "End Date",
+    "current": "Current",
+    "description": "Description",
+    "bullets": "Bullet Points",
+    "addBullet": "Add Bullet",
+    "tags": "Tags",
+    "settings": "Template Settings",
+    "color": "Primary Color",
+    "fontSize": "Font Size",
+    "lineHeight": "Line Height",
+    "paperSize": "Paper Size",
+    "showDividers": "Show Dividers",
+    "showIcons": "Show Icons"
+  },
+  "sections": {
+    "experience": "Work Experience",
+    "education": "Education",
+    "skills": "Skills",
+    "projects": "Projects",
+    "awards": "Awards",
+    "certifications": "Certifications",
+    "languages": "Languages",
+    "volunteer": "Volunteer",
+    "research": "Research",
+    "publications": "Publications",
+    "patents": "Patents",
+    "references": "References",
+    "custom": "Custom Section"
+  },
+  "export": {
+    "export": "Export",
+    "pdf": "Download PDF",
+    "print": "Print",
+    "json": "Export JSON",
+    "markdown": "Export Markdown"
+  },
+  "ats": {
+    "score": "ATS Score",
+    "excellent": "Excellent",
+    "good": "Good",
+    "fair": "Fair",
+    "poor": "Poor"
+  },
+  "quality": {
+    "title": "Quality Panel",
+    "grammar": "Grammar",
+    "verbs": "Weak Verbs",
+    "metrics": "Missing Metrics",
+    "keywords": "Keywords",
+    "formatting": "Formatting",
+    "ats": "ATS"
+  },
+  "heatmap": {
+    "title": "Recruiter Heatmap",
+    "hot": "High Attention",
+    "warm": "Medium Attention",
+    "cold": "Low Attention"
+  },
+  "language": {
+    "switch": "Switch Language",
+    "english": "English",
+    "persian": "Persian"
+  }
+}

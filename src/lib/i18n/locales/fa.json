@@ -1,0 +1,97 @@
+{
+  "app": {
+    "name": "رزومه استودیو پرو",
+    "tagline": "رزومه حرفه‌ای خود را بسازید"
+  },
+  "nav": {
+    "home": "خانه",
+    "editor": "ویرایشگر",
+    "templates": "قالب‌ها",
+    "settings": "تنظیمات"
+  },
+  "editor": {
+    "personalInfo": "اطلاعات شخصی",
+    "firstName": "نام",
+    "lastName": "نام خانوادگی",
+    "title": "عنوان حرفه‌ای",
+    "email": "ایمیل",
+    "phone": "تلفن",
+    "location": "محل سکونت",
+    "website": "وبسایت",
+    "linkedin": "لینکدین",
+    "github": "گیت‌هاب",
+    "summary": "خلاصه حرفه‌ای",
+    "summaryPlaceholder": "یک خلاصه حرفه‌ای جذاب بنویسید...",
+    "addSection": "افزودن بخش",
+    "removeSection": "حذف بخش",
+    "sectionTitle": "عنوان بخش",
+    "addItem": "افزودن آیتم",
+    "removeItem": "حذف آیتم",
+    "itemTitle": "عنوان",
+    "itemSubtitle": "زیرعنوان",
+    "itemLocation": "محل",
+    "startDate": "تاریخ شروع",
+    "endDate": "تاریخ پایان",
+    "current": "فعلی",
+    "description": "توضیحات",
+    "bullets": "نکات کلیدی",
+    "addBullet": "افزودن نکته",
+    "tags": "برچسب‌ها",
+    "settings": "تنظیمات قالب",
+    "color": "رنگ اصلی",
+    "fontSize": "اندازه فونت",
+    "lineHeight": "ارتفاع خط",
+    "paperSize": "اندازه کاغذ",
+    "showDividers": "نمایش جداکننده‌ها",
+    "showIcons": "نمایش آیکون‌ها"
+  },
+  "sections": {
+    "experience": "تجربه کاری",
+    "education": "تحصیلات",
+    "skills": "مهارت‌ها",
+    "projects": "پروژه‌ها",
+    "awards": "جایزه‌ها",
+    "certifications": "گواهینامه‌ها",
+    "languages": "زبان‌ها",
+    "volunteer": "داوطلبی",
+    "research": "تحقیقات",
+    "publications": "انتشارات",
+    "patents": "اختراعات",
+    "references": "ارجاعات",
+    "custom": "بخش سفارشی"
+  },
+  "export": {
+    "export": "خروجی",
+    "pdf": "دانلود PDF",
+    "print": "چاپ",
+    "json": "خروجی JSON",
+    "markdown": "خروجی Markdown"
+  },
+  "ats": {
+    "score": "امتیاز ATS",
+    "excellent": "عالی",
+    "good": "خوب",
+    "fair": "متوسط",
+    "poor": "ضعیف"
+  },
+  "quality": {
+    "title": "پنل کیفیت",
+    "grammar": "گرامر",
+    "verbs": "افعال ضعیف",
+    "metrics": "عدم وجود معیارها",
+    "keywords": "کلمات کلیدی",
+    "formatting": "قالب‌بندی",
+    "ats": "ATS"
+  },
+  "heatmap": {
+    "title": "نقشه حرارتی استخدام‌کننده",
+    "hot": "توجه بالا",
+    "warm": "توجه متوسط",
+    "cold": "توجه کم"
+  },
+  "language": {
+    "switch": "تغییر زبان",
+    "english": "انگلیسی",
+    "persian": "فارسی"
+  }
+}
